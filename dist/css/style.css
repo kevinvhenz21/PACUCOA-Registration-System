@@ -1,0 +1,21 @@
+.main-header .logo .logo-lg img{
+	max-width: 150px;
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+
+.main-header .logo .logo-mini img{
+	padding:4px;
+	width:100%;
+	height:auto;
+	vertical-align:middle;
+}
+
+.box-top-div{
+	padding:5px 5px 15px 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
