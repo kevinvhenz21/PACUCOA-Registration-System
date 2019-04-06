@@ -193,13 +193,6 @@
 	  </div>
 </section>
 
-<?php
-
-echo $_SERVER['PHP_SELF'];
-ECHO '<BR>';
-echo basename(dirname(__FILE__)) . PHP_EOL;
-
-?>
 
 
 
